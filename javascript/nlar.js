@@ -28,7 +28,7 @@ app.controller('myController', function($scope) {
 	$scope.contentStory2 = "Người bạn tôi đã được gặp trên mạng. Cô ấy là 1 best Liliana với khả năng gánh team cực đỉnh. Những pha hightlight cũng có. Bên cạnh đó không thể quên những pha mù light do chính cô ấy tạo ra. Tuy là thế cô ấy còn được biết đến với biệt danh Bà Hoàng drama";
 	$scope.storytitle1 = "Hành trình trưởng thành hơn từng ngày";
 	$scope.storytitle2 = "Bạn khác giới khác giới khá thân";
-	$scope.nothinglikeus = "Thank for watching";
+	$scope.nothinglikeus = "Thanks for watching";
 	$scope.thankall = "Cảm ơn mọi người đã lắng nghe";
 	$scope.au = "Kiyoshi";
 	$scope.phone = false;
